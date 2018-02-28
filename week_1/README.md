@@ -8,4 +8,3 @@
     - practice_3.R
 - hw_1
     - hw_1_question.R
-    - 

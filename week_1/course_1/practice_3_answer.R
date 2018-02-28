@@ -8,34 +8,34 @@ person.id <- c("jiyuian520", "shawnn520", "moumou123")
 person.days <- c(201, 37, 99)
 
 # 使用data.frame()，並以上述4個向量建立person.df
-person.df <- 
+person.df <- data.frame(person.name, person.sex, person.id, person.days)
 
-# 使用str()查看person.df結構
+# 查看person.df結構
+str(person.df)
 
+# 查看person.df summary
+summary(person.df)
 
-# 使用summary()查看person.df summary
-
-  
 # 印出person.df
+person.df
 
-  
 # 印出person.df第一列
-# person.df[_____, _____]
+person.df[1, ]
 
 # 印出person.df第二列第三欄
-# person.df[_____, _____]
+person.df[2, 3]
 
-# 查看person.df中person.id欄位(使用$)
+# 使用$ 指定出person.df中person.id欄位
+person.df$person.id
 
-
-# 使用order()將person.df$person.days排序後, 建立days.position
-days.postion <- 
+# 使用order(), 將person.df$person.days排序後, 建立days.position
+days.postion <- order(person.df$person.days)
 
 # 使用days.postion, 排序person.df
-# person.df[_____, _____]
+person.df[days.postion, ]
 
 # 使用grepl()，找出person.df$person.id中有520精神的
-# spirit.520 <- grepl(____, ______)
+spirit.520 <- grepl("520", person.df$person.id)
 
 # 篩選出520家族的成員
-# person.df[_____, _____]
+person.df[spirit.520, ]

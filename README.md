@@ -2,7 +2,7 @@
 
 - [課程大綱](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2004010&class=&dpt_code=H020&ser_no=46352&semester=106-2&lang=CH)
 
-- [資料科學程式設計GitBook](https://www.gitbook.com/book/pecu/r_/welcome)
+- [資料科學程式設計GitBook](https://www.gitbook.com/book/pecu/r_)
 - [資料科學程式設計GitHub](https://github.com/NTU-CSX-DataScience/106-2RSampleCode)
 
 
