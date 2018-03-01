@@ -11,7 +11,7 @@ my.weight.kg <- 69
 my.height.m <- my.height.cm / 100
 
 # Create my.bmi with BMI(Body Mass Index) formula
-my.bmi <- my.weight / (my.height.m) ^ 2
+my.bmi <- my.weight.kg / (my.height.m) ^ 2
 
 # Use if-else to print matched information
 # Reference: http://www.tpech.gov.taipei/ct.asp?xItem=1794336&CtNode=30678&mp=109171
