@@ -1,5 +1,4 @@
-### practice_1_answer
-### BMI Caculator
+### practice_1_question
 
 # Craete variable called my.height.cm with your actual height in cm 
 my.height.cm <-
