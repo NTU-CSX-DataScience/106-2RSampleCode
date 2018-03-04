@@ -8,3 +8,10 @@
     - practice_3.R
 - hw_1
     - hw_1_question.R
+    
+- week_1任務
+    - 建立個人`Github帳號`
+    - 建立本課程專用`Repository`
+    - 在該repository當中上傳建立一命名為 `week_1(or hw_1)`的資料夾
+    - 於`weel_1資料夾`中，上傳本周練習的`成果檔案(ex: hw_1_answers.R)`。
+    
