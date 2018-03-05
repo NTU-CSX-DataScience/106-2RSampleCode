@@ -15,5 +15,5 @@
 
 - week_2任務
     - 建立一命名為 `week_2(or hw_2)`的資料夾，內容包括以下兩項
-        1. 完成`hw_2_question.R`的練習成果(renaming as hw_2_answers.R)
+        1. 完成並繳交`hw_2_question.R`的練習成果(renaming as hw_2_answers.R)
         2. 完成一支網站爬蟲，並繳交三種類型檔案(.R, .Rmd, .html) 
