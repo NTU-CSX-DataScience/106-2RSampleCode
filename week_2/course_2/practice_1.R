@@ -1,32 +1,32 @@
-### practice_1_answer
+### practice_1
 ### functions
 
 ### function SayHello #####################################################
 SayHello <- function (name) {
-  print(paste("Hello,", name))
+  print(________________)
 }
 
-SayHello("Pecu")
+SayHello("Pecu") # Output > "Hello, Pecu" 
 
 ### function GetBmi #######################################################
 GetBmi <- function (my.height.cm, my.weight.kg) {
   
   # Create my.height.m by my.height.cm 
-  my.height.m <- my.height.cm / 100
+  my.height.m <- 
   
   # Create my.bmi with BMI(Body Mass Index) formula
-  my.bmi <- my.weight.kg / (my.height.m) ^ 2  
+  my.bmi <- 
   
   # Return my.bmi
-  return (my.bmi)
+  return ()
 }
 
-GetBmi(180, 55)
+GetBmi(180, 55) # return 16.97531
 
 ### function CheckBmiLevel ################################################
 CheckBmiLevel <- function (my.height.cm, my.weight.kg) {
   # Call the GetBmi function we just made
-  my.bmi <- GetBmi(my.height.cm, my.weight.kg)
+  my.bmi <- 
   
   if (my.bmi >= 35) {
     return(paste("Your bmi: ", my.bmi, ", 重度肥胖!"))
@@ -43,8 +43,8 @@ CheckBmiLevel <- function (my.height.cm, my.weight.kg) {
   }  
 }
 
-bmi.level.msg <- CheckBmiLevel(176, 70)
-bmi.level.msg
+bmi.level.msg <- CheckBmiLevel(176, 70) 
+bmi.level.msg # "Your bmi:  22.5981404958678 , 正常範圍"
 
 ### function GetLargest ###################################################
 GetLargest <- function (vector) {
