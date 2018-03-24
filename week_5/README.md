@@ -5,7 +5,11 @@
 - course_5
     - example_1_text_mining.R(tentative)
         - Term to Document Matrix, tf-idf, pca, k-means
-    - example_2_shinnnnny
+    - [shiny-examples-master](https://github.com/rstudio/shiny-examples)
+        - You could learn with **those examples** online by viewing `https://gallery.shinyapps.io/案例檔名`
+            - EX: https://gallery.shinyapps.io/001-hello
+        - check **[shiny gallery](https://shiny.rstudio.com/gallery/)** to inspire your ideas!
+        - check **[shiny widget gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)** to meet widgets! 
 
 
 - week_5任務
