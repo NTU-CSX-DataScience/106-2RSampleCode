@@ -8,6 +8,7 @@ library(jiebaRD)
 library(jiebaR)
 library(slam)
 library(Matrix)
+library(tidytext)
 
 rawData = readtext("*.txt")
 docs = Corpus(VectorSource(rawData$text))
@@ -35,6 +36,7 @@ freqFrame = as.data.frame(table(unlist(seg)))
 d.corpus <- Corpus(VectorSource(seg))
 tdm <- TermDocumentMatrix(d.corpus)
 print( tf <- as.matrix(tdm) )
+DF <- tidy(tf)
 
 # tf-idf computation
 N = tdm$ncol
