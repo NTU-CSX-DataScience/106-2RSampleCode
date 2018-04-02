@@ -1,7 +1,7 @@
 library(httr)
 
 name = "partytsulin"
-token = "EAACEdEose0cBAGs7Bcj5mI7RXZBORz6C5CY66ZCr4P8EZCgI7pdunsmWqZCo6ZC8IZB61lZCfukreU9xZCIw0UuhZAY24BnUvUd62WitbyHNI0NHthIb1STInWwfEsIo0zyulHUqfZB2JAYZCf2aI3s9dDS9B8j9VdlxLHxsMawBCLH1EZBtpHJz1QfEJqkZCPCwOYYYZD"
+token = ""
 
 url = paste0("https://graph.facebook.com/v2.12/",
              name,
