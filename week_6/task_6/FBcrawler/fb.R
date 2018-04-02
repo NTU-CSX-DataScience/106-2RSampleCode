@@ -1,18 +1,18 @@
 library(httr)
 
-name = "partytsulin"
+name = "chenchimai2017"
 token = ""
 
 url = paste0("https://graph.facebook.com/v2.12/",
              name,
              "?fields=posts&access_token=",
              token)
+
 res = httr::GET(url)
 post = content(res)
 
 while( !is.null(url) )
 {
-  pageNo = length(data)
   if( is.null(post$posts$data) )
   {
     data = post$data  
@@ -21,11 +21,12 @@ while( !is.null(url) )
   {
     data = post$posts$data
   }
-  date = data[[1]]$created_time
+  pageNo = length(data)
+  from = 1
+  date = data[[from]]$created_time
   currentY = strsplit(date, '-')[[1]][1]
   currentM = strsplit(date, '-')[[1]][2]
   currentM = paste0(currentY,'_',currentM)
-  from = 1
   saveData = list(data[[from]])
 
   for( id in c(2:pageNo) )
@@ -44,8 +45,8 @@ while( !is.null(url) )
       filename = paste0("./",name,"/",currentM,".txt")
       currentM = month
       write(unlist(saveData), filename, append = TRUE)
-      saveData = list()
-      from = to-1
+      from = to
+      saveData = list(data[[from]])
     }
   }
   
