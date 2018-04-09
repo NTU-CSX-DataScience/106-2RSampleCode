@@ -202,6 +202,8 @@ for( t in c(1:TopNo) )
 }
 
 library(ggplot2)
+library(varhandle)
+tempGraph$freq = unfactor(tempGraph$freq)
 ggplot(tempGraph, aes(hour, freq)) + 
   geom_point(aes(color = words, shape = words), size = 5) +
   geom_line(aes(group = words, linetype = words))
