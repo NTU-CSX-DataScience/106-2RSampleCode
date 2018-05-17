@@ -30,7 +30,7 @@ cat ("MSE for Gradient Descent Trained Model: ", mse(y, mlpModel))
 
 ####################################################################
 #Conjugate Gradient Trained NN
-#install.packages('RNSS')
+#install.packages('RSNSS')
 require(RSNNS)
 
 #About mlp function https://www.rdocumentation.org/packages/RSNNS/versions/0.4-10/topics/mlp
