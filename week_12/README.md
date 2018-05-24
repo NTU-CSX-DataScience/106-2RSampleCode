@@ -2,6 +2,9 @@
 
 ### week_12
 
+- [keras.js ](https://transcranial.github.io/keras-js/)
+
+
 #### R deep leraning trytry.R
 
 - Book **[intro-to-deep-learning-using-r - ch11](https://github.com/rohanchikorde/Data-Science-books/blob/master/Deep_Learning%20Books/Introduction%20to%20Deep%20Learning%20Using%20R.pdf)**
