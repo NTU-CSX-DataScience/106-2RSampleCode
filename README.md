@@ -26,8 +26,7 @@
     
     [黃仲安](https://github.com/ndcahuang/dsprogramming)、[許凱嵐](https://github.com/iamkailan/2018_spring_CSX)
     
-    [曾子軒](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)、[劉千瑜](https://github.com/chienyuliu/Data-Science-Programming)
-
+    [曾子軒](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 
 | Date   | W    | Link                                                           |
 | --:    | --   | --                                                             |
