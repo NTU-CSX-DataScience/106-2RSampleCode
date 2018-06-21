@@ -8,7 +8,7 @@
 
 - 修課名單：
 
-    [張頌平](https://github.com/joshchang1112/cs-x-programming)、[陳昱鈞](https://github.com/jeffrey1227/Rprogramming)、[曹書誠](https://github.com/b02303005/b02303005_Practice1)；期末專題：*[電影票房預測]()
+    [張頌平](https://github.com/joshchang1112/cs-x-programming)、[陳昱鈞](https://github.com/jeffrey1227/Rprogramming)、[曹書誠](https://github.com/b02303005/b02303005_Practice1)；期末專題：[電影票房預測](https://github.com/joshchang1112/cs-x-programming/blob/master/Final%20project/CSX_Final.pdf)、[程式碼](https://github.com/joshchang1112/cs-x-programming/tree/master/Final%20project)
     
     [崔芷瑄](https://github.com/viviantsui0514/Rcourses2018)、[韓曙憶](https://github.com/zoey7407/CSX_RProject_Spring_2018)、[鄭富鴻](https://github.com/Cetoz/CSX-DataScience)；期末專題：[登革熱數據分析](https://zoey7407.github.io/CSX_RProject_Spring_2018/final/dg.html)
     
