@@ -18,7 +18,7 @@
     
     [羊敏丹](https://github.com/Suuuuny/courseR)、[謝誌紘](https://github.com/dppss90008/NTU_code)、[黃彥鈞](https://github.com/Weber12321/Weber1234)；期末專題：*[選戰懶人包]()
     
-    [顏嘉佑](https://github.com/rgmmmt4r/106-2_R_b04303117)、[黃侲艗](https://github.com/nalol831123/R)、[沈祐珍](https://github.com/b03602023/1062CSX_project)；期末專題：[綜藝大熱門](https://b03602023.github.io/1062CSX_project/final project/ppt/期末報告.pptx)
+    [顏嘉佑](https://github.com/rgmmmt4r/106-2_R_b04303117)、[黃侲艗](https://github.com/nalol831123/R)、[沈祐珍](https://github.com/b03602023/1062CSX_project)；期末專題：[綜藝大熱門](https://github.com/b03602023/1062CSX_project/blob/master/final%20project/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8_%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pptx)
     
     [葉明俊](https://github.com/b04902122/CSX_R)、[陳浩欣](https://github.com/hausin/Hello)；期末專題：[英國2014-2016年車禍率分析](https://b04902122.github.io/CSX_R/final_project/final.html)
     
