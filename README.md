@@ -25,7 +25,7 @@
     [李季陽](https://github.com/skyspirit2327/107_DSCD)、[胡程維](https://github.com/HcwXd/CSX_RProject_Spring_2018)；期末專題：[NBA比賽結果預測分析](https://github.com/skyspirit2327/107_DSCD/raw/master/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A%E7%AC%AC%E4%B9%9D%E7%B5%84-----%E8%83%A1%E7%A8%8B%E7%B6%AD%EF%BC%8C%E6%9D%8E%E5%AD%A3%E9%99%BD.pptx)
 
     
-    [黃仲安](https://github.com/ndcahuang/dsprogramming)、[許凱嵐](https://github.com/iamkailan/2018_spring_CSX)；期末專題：*[KKBox資料預處理流程建置與優化]()
+    [黃仲安](https://github.com/ndcahuang/dsprogramming)、[許凱嵐](https://github.com/iamkailan/2018_spring_CSX)；期末專題：*[KKBox資料預處理流程建置與優化](https://github.com/ndcahuang/dsprogramming/blob/master/project_final/Automated%20Data%20Warehousing%20%40%20KKStream.pdf)
     
     [曾子軒](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)；期末專題：[台大學代會出席狀況分析](https://drive.google.com/open?id=1FJdYLb8Z0pno8GqUE3e79dVPILzaJ0q-)
 
