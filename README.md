@@ -27,7 +27,7 @@
     
     [黃仲安](https://github.com/ndcahuang/dsprogramming)、[許凱嵐](https://github.com/iamkailan/2018_spring_CSX)；期末專題：*[KKBox資料預處理流程建置與優化]()
     
-    [曾子軒](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)；期末專題：*[台大學代會出席狀況分析]()
+    [曾子軒](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)；期末專題：[台大學代會出席狀況分析](https://drive.google.com/open?id=1FJdYLb8Z0pno8GqUE3e79dVPILzaJ0q-)
 
 | Date   | W    | Link                                                           |
 | --:    | --   | --                                                             |
