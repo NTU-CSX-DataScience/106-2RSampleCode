@@ -16,7 +16,7 @@
     
     [梁振寧](https://github.com/slimykat/CSX_4001_106-2)、[林育萱](https://github.com/rabbit55/cs-x-programming)、[薛雅玫](https://github.com/AmyHs/Rcode)；期末專題：*[憂鬱症作家的用字分析]()
     
-    [羊敏丹](https://github.com/Suuuuny/courseR)、[謝誌紘](https://github.com/dppss90008/NTU_code)、[黃彥鈞](https://github.com/Weber12321/Weber1234)；期末專題：[選戰懶人包](https://github.com/Weber12321/Weber1234/blob/master/%E9%81%B8%E6%88%B0%E6%87%B6%E4%BA%BA%E5%8C%85.pdf)
+    [羊敏丹](https://github.com/Suuuuny/courseR)、[謝誌紘](https://github.com/dppss90008/NTU_code)、[黃彥鈞](https://github.com/Weber12321/Weber1234)；期末專題：[選戰懶人包](https://docs.google.com/presentation/d/1p2vua3FNWMaGRWYAarCJ8WTwRFNiI9LmvhUbOLukDQY/edit#slide=id.p)
     
     [顏嘉佑](https://github.com/rgmmmt4r/106-2_R_b04303117)、[黃侲艗](https://github.com/nalol831123/R)、[沈祐珍](https://github.com/b03602023/1062CSX_project)；期末專題：[綜藝大熱門](https://github.com/b03602023/1062CSX_project/blob/master/final%20project/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8_%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pptx)
     
